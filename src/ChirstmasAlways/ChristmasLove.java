@@ -6,5 +6,7 @@ public class ChristmasLove {
 		System.out.println("Christmas Love");
 		
 		System.out.println("Let it snow...");
+		
+		System.out.println("Santa Clause");
 	}
 }
